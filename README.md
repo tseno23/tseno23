@@ -45,9 +45,7 @@ I am passionate about becoming a **Back-End Developer**, focusing on building re
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=SENO+TANGGUH+PRABOWO;Back-End+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/pacman.svg" width="500" alt="Pacman">
-</p>
+
 
 
 <p align="center">
