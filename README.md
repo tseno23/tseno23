@@ -32,13 +32,6 @@ I am passionate about becoming a **Back-End Developer**, focusing on building re
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tseno23&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseno23&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ---
 
 ## 📫 Contact Me
@@ -57,7 +50,6 @@ I am passionate about becoming a **Back-End Developer**, focusing on building re
 </p>
 
 
- ## snake
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=150&section=footer" />
 </p>
